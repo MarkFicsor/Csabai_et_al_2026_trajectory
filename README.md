@@ -2,4 +2,4 @@
 
 Final R code of data analysis for Csabai et al. 2026. Recurrent stream drying increases assemblage displacement and alters community trajectory pathways. (Journal) (edition), (pages). (DOI)
 
-Save functions - ggsave() - are silenced.
+Save functions of plots - ggsave() - are silenced.
